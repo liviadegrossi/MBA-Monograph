@@ -1,6 +1,6 @@
 # Monograph 
 ### Geographically Weighted Regression for Assessing Citizen-generated Data Quality
-This repository contains the datasets and code used for the development of my MBA in Big Data &amp; Artificial Intelligence monograph, which investigates the use of <a href="https://doi.org/10.1111/j.1538-4632.1996.tb00936.x">Geographically Weighted Regression (GWR)</a> to assess the quality of citizen-generated data for flood management.
+This repository contains the datasets and code used for the development of my <a href="https://mba.iabigdata.icmc.usp.br/">MBA in Artificial Intelligence &amp; Big Data</a> monograph, which investigates the use of <a href="https://doi.org/10.1111/j.1538-4632.1996.tb00936.x">Geographically Weighted Regression (GWR)</a> to assess the quality of citizen-generated data for flood management.
 
 ### References
 <ol>
