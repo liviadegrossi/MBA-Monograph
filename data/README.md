@@ -29,7 +29,7 @@ The data dictionary provides a description of the datasets used during the devel
             <td>grid-90km.shp</td>
             <td>The shapefile representing the hexagonal grids with 90km<sup>2</sup></td>
             <td>EPSG:4326</td>
-            <td>data/30km</td>
+            <td>data/90km</td>
         </tr>
         <!-- <tr>
             <td></td>
