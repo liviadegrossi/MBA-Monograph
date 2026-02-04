@@ -3,7 +3,7 @@
 The data dictionary provides a description of the datasets used during the development of the monograph, including, when available, their attributes, coordinated reference system (CRS). 
 
 <table>
-    <caption>Data dictionary</caption>
+    <!-- <caption>Data dictionary</caption> -->
     <thead>
         <tr>
             <th style="border: 1px solid black; padding: 8px;">File</th>
