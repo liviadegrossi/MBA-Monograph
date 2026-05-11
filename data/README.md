@@ -1,7 +1,6 @@
 # Data Dictionary
 
-The data dictionary provides a description of the datasets used during the development of the monograph, including, when available, their attributes, coordinate reference system (CRS), and their directories. 
-The data dictionary provides a description of the datasets used during the development of the monograph, including, when available, their attributes, coordinate reference system (CRS), and their directories. 
+The data dictionary provides descriptions of the datasets used during the development of the monograph, including, when available, their attributes, coordinate reference system (CRS), and directories. 
 
 <table>
     <thead>
@@ -46,7 +45,8 @@ The data dictionary provides a description of the datasets used during the devel
             <td>Flood prone areas</td>
             <td> Flood-prone watercourse sections with associated frequency of occurrence, degree of impact, and vulnerability to flood </td> <!-- (Updated on May 24, 2024) -->
             <td>Source: National Water Agency</td> <!-- (https://dadosabertos.ana.gov.br/datasets/62a3924c1da34f73bf5b7132677213ea_0/about) -->
-            <td></td>
+            <td>EPSG:4618</td>
+            <td>data/flood-prone-areas</td>
         </tr>
        <!--  <tr>
             <td></td>
