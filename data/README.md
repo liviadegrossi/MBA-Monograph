@@ -35,6 +35,13 @@ The data dictionary provides descriptions of the datasets used during the develo
             <td>data/90km</td>
         </tr>
         <tr>
+            <td>tweets.csv</td>
+            <td>The georeferenced tweets retrieved by Twitter Streaming API for the administrative boundary of São Paulo city.</td>
+            <td>Source: Restrepo-Estrada et al. (2017) </td>
+            <td>EPSG:4326</td>
+            <td>data/tweets</td>
+        </tr>
+        <tr>
             <td>weather_radar_measurements.csv</td>
             <td>The weather radar measurements for the period of analysis on a one-day scale.</td>
             <td>Source: de Andrade et al. (2021) </td>
