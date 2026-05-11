@@ -68,14 +68,7 @@ The data dictionary provides descriptions of the datasets used during the develo
             <td>Source: </td>
             <td>EPSG:4326</td>
             <td>data/administrative-boundary</td>
-        </tr>
-        
-       <!--  <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr> -->
+        </tr>   
     </tbody>
 </table>
 
