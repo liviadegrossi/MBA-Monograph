@@ -1,7 +1,3 @@
--- The flood events were manually obtained from https://www.cgesp.org/v3/alagamentos.jsp and 
--- the coordinates were manually obtained from Google Maps by searching for the event's address and reference
--- Some flood events were excluded from the list because it was not possible to find its coordinates
-
 CREATE TABLE raw.cge_flood_points (
     id serial PRIMARY KEY,
     zone character varying(255) NOT NULL,
