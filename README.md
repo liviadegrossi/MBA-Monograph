@@ -1,5 +1,5 @@
 # Monograph 
-### Geographically Weighted Regression for Assessing Citizen-generated Data Quality
+### Addressing the Modifiable Areal Unit Problem (MAUP) in the Assessment of CGI Quality for Flood Management
 This repository contains the datasets and code used for the development of my <a href="https://mba.iabigdata.icmc.usp.br/">MBA in Artificial Intelligence &amp; Big Data</a> monograph. This monograph investigates the effects of the Modifiable Areal Unit Problem (MAUP) when assessing the quality of aggregated Crowdsourced Geographic Information (CGI) items. In general, the size of the areal units is arbitrarily chosen without the support of clear criteria that ensure the representativeness of the observed phenomenon.
 <!--which investigates the use of <a href="https://doi.org/10.1111/j.1538-4632.1996.tb00936.x">Geographically Weighted Regression (GWR)</a> to assess the quality of citizen-generated data for flood management.-->
 
