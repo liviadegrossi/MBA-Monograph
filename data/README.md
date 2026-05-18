@@ -79,3 +79,6 @@ The data dictionary provides descriptions of the datasets used during the develo
     </tbody>
 </table>
 
+### References
+1. Restrepo-Estrada, C., de Andrade, S. C., Abe, N., Fava, M. C., Mendiondo, E. M., de Albuquerque, J. P. (2018). Geo-social media as a proxy for hydrometeorological data for streamflow estimation and to improve flood monitoring. Computers & Geosciences, 111, 148-158. <a href='https://doi.org/10.1016/j.cageo.2017.10.010'>https://doi.org/10.1016/j.cageo.2017.10.010</a>
+2. de Andrade, S. C., Restrepo-Estrada, C., Nunes, L. H., Rodriguez, C. A. M., Estrella, J. C., Delbem, A. C. B., & Porto de Albuquerque, J. (2021). A multicriteria optimization framework for the definition of the spatial granularity of urban social media analytics. International Journal of Geographical Information Science, 35(1), 43–62. <a href='https://doi.org/10.1080/13658816.2020.1755039'>https://doi.org/10.1080/13658816.2020.1755039</a>
