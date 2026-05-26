@@ -11,3 +11,9 @@ This repository contains the datasets and code used for the development of my <a
   <li>Fotheringham, A.S., Crespo, R. and Yao, J. (2015), <b>Geographical and Temporal Weighted Regression (GTWR).</b> Geogr Anal, 47: 431-452. <a href="https://doi.org/10.1111/gean.12071">https://doi.org/10.1111/gean.12071</a></li>
   <li>Comber, A., Brunsdon, C., Charlton, M., Dong, G., Harris, R., Lu, B., Lü, Y., Murakami, D., Nakaya, T., Wang, Y. and Harris, P. (2023), <b>A Route Map for Successful Applications of Geographically Weighted Regression.</b> Geogr Anal, 55: 155-178. <a href="https://doi.org/10.1111/gean.12316">https://doi.org/10.1111/gean.12316</a></li>
 </ol>
+
+<!-- ## Set up the environment
+
+- Pandas
+- SQLAlchemy
+- psycopg -->
